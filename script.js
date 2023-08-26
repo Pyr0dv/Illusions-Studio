@@ -3,7 +3,7 @@ body.style.display = 'none';
 var pass = prompt("Password:")
 console.log(pass)
 
-var appPass = "080511"
+var appPass = "110825"
 
 if(pass !== appPass){
     body.style.display = 'none';
